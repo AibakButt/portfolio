@@ -1,32 +1,32 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8931baac.css",
-    "main.js": "/portfolio/static/js/main.36f742b0.js",
+    "main.js": "/portfolio/static/js/main.ca53ef3e.js",
     "static/media/tab.png": "/portfolio/static/media/tab.efc9e19f51386c27b6f9.png",
-    "static/media/mobile.png": "/portfolio/static/media/mobile.b42bb70481f663871e28.png",
+    "static/media/mobile.png": "/portfolio/static/media/mobile.60974ba5aedcdce9bd5f.png",
     "static/media/tab2.png": "/portfolio/static/media/tab2.c410846e807b80ceb004.png",
     "static/media/Avenir-Book-01.ttf": "/portfolio/static/media/Avenir-Book-01.ab7aa26986df653dedc1.ttf",
     "static/media/Avenir-Medium-09.ttf": "/portfolio/static/media/Avenir-Medium-09.90ba4d31a83ca40b27d8.ttf",
     "static/media/Avenir-Heavy-05.ttf": "/portfolio/static/media/Avenir-Heavy-05.ef8835d185e784ae3f88.ttf",
     "static/media/Avenir-Roman-12.ttf": "/portfolio/static/media/Avenir-Roman-12.c0f2c1bfb99c316e4497.ttf",
     "static/media/Avenir-Light-07.ttf": "/portfolio/static/media/Avenir-Light-07.d7d158a298aa946d69ad.ttf",
+    "static/media/mobile2.png": "/portfolio/static/media/mobile2.b85daca1f116866d1cb3.png",
     "static/media/Valencia.ttf": "/portfolio/static/media/Valencia.982aa30178d00befd6f0.ttf",
     "static/media/mobile1.png": "/portfolio/static/media/mobile1.d00d887d15457d859d68.png",
-    "static/media/mobile2.png": "/portfolio/static/media/mobile2.b85daca1f116866d1cb3.png",
     "static/media/mobile3.png": "/portfolio/static/media/mobile3.f05b79792e54c4641c69.png",
     "static/media/mobile4.png": "/portfolio/static/media/mobile4.b8f93602746a4b1fc6cd.png",
-    "static/media/dribbble.svg": "/portfolio/static/media/dribbble.f4fd95f101c7fae55f5e95f6f29916ce.svg",
-    "static/media/insta.svg": "/portfolio/static/media/insta.61deed1ba8f170c294c80a372966bd1f.svg",
-    "static/media/mail.svg": "/portfolio/static/media/mail.faca000c1aad5163b2d6e95ee27fc449.svg",
-    "static/media/git.svg": "/portfolio/static/media/git.c5e25e2c7eac0fdf5d404b98491f6966.svg",
-    "static/media/twitter.svg": "/portfolio/static/media/twitter.91acf50ab549ac25dded24a3929ab749.svg",
-    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.88cca3a11b1215b7b9741c88430a192f.svg",
+    "static/media/dribbble.svg": "/portfolio/static/media/dribbble.e3e98878d673709acaead7a66fe2d7ba.svg",
+    "static/media/insta.svg": "/portfolio/static/media/insta.798d9b4b712c30e5b7d043e52187e830.svg",
+    "static/media/mail.svg": "/portfolio/static/media/mail.c20c4fc6f3114356bda10b217ccd0792.svg",
+    "static/media/git.svg": "/portfolio/static/media/git.2ffdb1560f6238b4626d4d4509d443f7.svg",
+    "static/media/twitter.svg": "/portfolio/static/media/twitter.3fdcdf776f02a03f2fe78258610f62b9.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.6a75a359e6841a99d42defd7af846ba9.svg",
     "index.html": "/portfolio/index.html",
     "main.8931baac.css.map": "/portfolio/static/css/main.8931baac.css.map",
-    "main.36f742b0.js.map": "/portfolio/static/js/main.36f742b0.js.map"
+    "main.ca53ef3e.js.map": "/portfolio/static/js/main.ca53ef3e.js.map"
   },
   "entrypoints": [
     "static/css/main.8931baac.css",
-    "static/js/main.36f742b0.js"
+    "static/js/main.ca53ef3e.js"
   ]
 }
