@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import PropTypes from 'prop-types';
 import vhCheck from 'vh-check';
 import Calendy from './ParallaxImages/CalendyImages';
+import KosmicImages from './ParallaxImages/KosmicImages';
 import WaterRechargeImages from './ParallaxImages/WaterRechargeImages';
 import ParlorAtHome from './ParallaxImages/ParlorAtHomeImages';
 import CastImages from './ParallaxImages/CastImages';
@@ -69,7 +70,7 @@ class ImageContent extends Component {
     return (
       <ImageContainer>
         <ImageBox height={boxHeight}>
-          <WaterRechargeImages
+          <KosmicImages
             boxHeight={boxHeight}
             index={1}
             scrollPercent={scrollPercent}
@@ -78,7 +79,7 @@ class ImageContent extends Component {
           />
         </ImageBox>
         <ImageBox height={boxHeight}>
-          <CastImages
+          <WaterRechargeImages
             boxHeight={boxHeight}
             index={2}
             scrollPercent={scrollPercent}
@@ -87,7 +88,7 @@ class ImageContent extends Component {
           />
         </ImageBox>
         <ImageBox height={boxHeight}>
-          <UnifydImages
+          <CastImages
             boxHeight={boxHeight}
             index={3}
             scrollPercent={scrollPercent}
@@ -96,7 +97,7 @@ class ImageContent extends Component {
           />
         </ImageBox>
         <ImageBox height={boxHeight}>
-          <Aimsplus
+          <UnifydImages
             boxHeight={boxHeight}
             index={4}
             scrollPercent={scrollPercent}
@@ -105,7 +106,7 @@ class ImageContent extends Component {
           />
         </ImageBox>
         <ImageBox height={boxHeight}>
-          <ParlorAtHome
+          <Aimsplus
             boxHeight={boxHeight}
             index={5}
             scrollPercent={scrollPercent}
@@ -114,9 +115,18 @@ class ImageContent extends Component {
           />
         </ImageBox>
         <ImageBox height={boxHeight}>
-          <Calendy
+          <ParlorAtHome
             boxHeight={boxHeight}
             index={6}
+            scrollPercent={scrollPercent}
+            screenHeight={screenHeight}
+            scrollHeight={scrollHeight}
+          />
+        </ImageBox>
+        <ImageBox height={boxHeight}>
+          <Calendy
+            boxHeight={boxHeight}
+            index={7}
             scrollPercent={scrollPercent}
             screenHeight={screenHeight}
             scrollHeight={scrollHeight}
